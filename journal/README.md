@@ -3,13 +3,13 @@
 
 I am, if nothing else, a huge nerd who happens to like digital art. It would make sense, then, that my senior project combines those two things: a map renderer, which I would draw the tileset for. The project did, however, drive me out from my art program of comfort and in search of something that was 1) able to produce vector image files of good quality, and 2) *free*. [Enter Inkscape]( https://inkscape.org/).
 
-![app launch screen](assets/Picture1.jpg)
+![app launch screen](assets/Picture1.png)
 
 From launch, Inkscape mimics the familiar interface of Adobe’s Photoshop. So when I got to the canvas and was greeted by such a familiar interface: art tools on the left, program tools up top, menus above that, and panels (such as layers and advanced color and brush tools) on the right. I figured I was in for a smooth transition between programs. Not so!
 
 I drew a quick test scribble to get the feel for the default pen. I trusted a combination of **convention** (aka **consistency and standards**), as well as **matching the system to the real world**, [two of the ten usability heuristic principles] (https://www.nngroup.com/articles/ten-usability-heuristics/), in identifying the pen by its icon and making some assumptions about how it would behave.
 
-![image of an s-like shape and two lines coming off it, the left line and s with a black fill](assets/Screenshot4.jpg)
+![image of an s-like shape and two lines coming off it, the left line and s with a black fill](assets/Screenshot4.png)
 
 When you’re expecting a line starting where you first put your pen tip down on the screen and ending where you lifted your pen, getting something like the above animation might be cause for minor alarm.  The is doubly true because all of what I wanted to draw in this program was line art, which is to say nothing was meant to have a fill.
 
