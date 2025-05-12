@@ -4,7 +4,7 @@ I'm a CINS major in my last semester of my Bachelor's program. My interest in UX
 
 ## UX Team Project
 
-Coming soon!
+[SmartInsulin](https://github.com/ChicoState/smartinsulin-ux)
 
 ## UX Journal
 
