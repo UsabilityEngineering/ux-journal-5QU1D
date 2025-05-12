@@ -5,7 +5,9 @@ I am, if nothing else, a huge nerd who happens to like digital art. It would mak
 
 ![app launch screen](assets/Picture1.png)
 
-From launch, Inkscape mimics the familiar interface of Adobe’s Photoshop. So when I got to the canvas and was greeted by such a familiar interface: art tools on the left, program tools up top, menus above that, and panels (such as layers and advanced color and brush tools) on the right. I figured I was in for a smooth transition between programs. Not so!
+From launch, Inkscape mimics the familiar interface of Adobe’s Photoshop. (See above image for the initial launch interface). So when I got to the canvas and was greeted by such a familiar interface: art tools on the left, program tools up top, menus above that, and panels (such as layers and advanced color and brush tools) on the right. I figured I was in for a smooth transition between programs. Not so!
+
+
 
 I drew a quick test scribble to get the feel for the default pen. I trusted a combination of **convention** (aka **consistency and standards**), as well as **matching the system to the real world**, [two of the ten usability heuristic principles](https://www.nngroup.com/articles/ten-usability-heuristics/), in identifying the pen by its icon and making some assumptions about how it would behave.
 
@@ -15,7 +17,14 @@ When you’re expecting a line starting where you first put your pen tip down on
 
 My first instinct was to assume that I had perhaps chosen the wrong tool. As I was using my stylus, and not the trackpad, I hovered my stylus tip over the screen at the tool to see details in the tooltip, similar to how I would mouse over it to get details; this is a common feature of most applications, regardless of application purpose. So my **mental model** didn’t fully match the **conceptual model** of the application’s feedback. (I later discovered that mousing over tools *does* produce a descriptive tooltip, so this is a tablet-specific issue.) However, no tooltip appeared. And as I didn’t have a mouse connected to my tablet at the time, it appeared that I had no way of getting information about the tools. The app was absent some rather important and relevant **feedback**.
 
+![the tools I was looking for](assets/Drawing%20Tools.png) <- the lineart tools from the left-hand side toolbar, which did end up being the right tools
+
 It took me five or six minutes of poking around the right-hand side panels to determine that the issue was a fill setting, and not that I had chosen an entirely incorrect tool.
+
+![the feature I ended up needing](assets/Fill%20and%20Stroke%20settings.png) <- the settings I needed
+
+Below is the same screenshot of the whole canvas interface, with labels for the tools and the menu I needed to get the job done.
+![labeled interface screenshot](assets/annotated%20screenshot_4.png)
 
 The learning curve of the app wound up being higher than anticipated, with additional features responding differently than I anticipated. I spent an hour attempting to draw simple line art for mountains and a simple tent-based settlement (tiles I need for my project) but was unhappy with the results of every attempt. I ended up switching back to my original art program, saving a PSD (Photoshop document), and using Photoshop to convert the layers into individual SVG files.
 
